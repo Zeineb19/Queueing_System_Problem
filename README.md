@@ -83,15 +83,15 @@ The Streamlit app ("Queueing Sim") provides:
 
 | Tunisian system | M/D/2 system |
 |---|---|
-| ![Tunisian](docs/tunisian.png) | ![M/D/2](docs/md2.png) |
+| ![Tunisian](docs/Tunisan.png) | ![M/D/2](docs/MD2.png) |
 
 | M/M/2 system | Comparative metrics |
 |---|---|
-| ![M/M/2](docs/mm2.png) | ![Comparison](docs/comparison.png) |
+| ![M/M/2](docs/MM2.png) | ![Comparison](docs/comparision.png) |
 
 | Waiting-time distributions and queue length over time |
 |---|
-| ![Overlay](docs/comparation2.png) |
+| ![Overlay](docs/comparison_overlay.png) |
 
 ## 🚀 Getting Started
 
